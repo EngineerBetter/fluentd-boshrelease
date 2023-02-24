@@ -2,7 +2,7 @@
 name: fluentd
 
 dependencies:
-- ruby-3.0.3-r0.79.0
+- ruby-3.2
 
 files:
 - fluentd.tgz
