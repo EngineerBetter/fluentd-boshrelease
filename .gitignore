@@ -12,3 +12,8 @@ releases/**/*.tgz
 *~
 *#
 #*
+/vendor/
+/bin/
+/fluentd.version
+/.bundle/
+/.ruby-version
